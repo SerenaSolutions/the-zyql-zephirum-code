@@ -31,6 +31,11 @@
 | 📕 PDF completo (305 pp.) | [THE-ZYQL-ZEPHIRUM-CODE.pdf](THE-ZYQL-ZEPHIRUM-CODE.pdf) |
 | 🌐 HTML (Open Graph) | [THE-ZYQL-ZEPHIRUM-CODE.html](THE-ZYQL-ZEPHIRUM-CODE.html) |
 
+## 📚 DOI oficial (registro científico)
+
+**DOI: 10.5281/zenodo.23676737** — [zenodo.org/records/23676737](https://zenodo.org/records/23676737)
+O livro está registrado como publicação científica citável, com arquivo aberto.
+
 ## 🔎 Verifique você mesmo
 
 Every number in this book is verifiable: clone the language repository
